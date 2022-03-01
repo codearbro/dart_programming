@@ -1,0 +1,15 @@
+void main()
+{
+  //finalkeyword
+  final name="suraj";
+  print(name);
+  //const keyword
+  const nickName="ajju";
+  //nickName="suraj";
+  print(nickName);
+  
+}
+class Box{
+  final width=5;
+  int length=6;
+}
